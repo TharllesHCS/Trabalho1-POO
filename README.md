@@ -1,21 +1,26 @@
 # Trabalho1-POO
 Programação	Orientada	a	Objetos
+
 Trabalho 01
+
 Desenvolver	o	jogo	de	cartas	Poker	(Texas	Hold’em)
-  • Implementar	as	classes (Sugestões)
-  o Carta
-  o Baralho
-  o Jogador
-  o Jogo /	Dealer	/	Mesa
-  • Criar	um	programa	principal	que	realize	as	seguintes	operações:
-  o Criar	um	cenário	com	2	jogadores
-  * Um	jogo	com N	jogadores	ganhará	minha	admiração	;)
-  o Embaralhar	as	cartas
-  o Distribuir	as	2	cartas	para	cada	jogador
-  o Distribuir	as	cartas	na	mesa
-  o Iniciar	um	jogo
-  o Definir	o	ganhador	baseado	nas	regras	do	poker
-  o Deu	empate?	Ganha	quem	tiver	a	maior	carta
+
+Implementar	as	classes (Sugestões):
+* Carta
+* Baralho
+* Jogador
+* Jogo /	Dealer	/	Mesa
+* Criar	um	programa	principal	que	realize	as	seguintes	operações:
+* Criar	um	cenário	com	2	jogadores
+  
+-> Um	jogo	com N	jogadores	ganhará	minha	admiração	;)
+
+* Embaralhar	as	cartas
+* Distribuir	as	2	cartas	para	cada	jogador
+* Distribuir	as	cartas	na	mesa
+* Iniciar	um	jogo
+* Definir	o	ganhador	baseado	nas	regras	do	poker
+* Deu	empate?	Ganha	quem	tiver	a	maior	carta
   
 # Primeiro passos no GIT 
 1. Instalar o Git: https://git-scm.com/download/win
