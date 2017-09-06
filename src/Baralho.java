@@ -1,4 +1,5 @@
 
-public class Baralho {
+public class Baralho extends Carta{
+	
 
 }
